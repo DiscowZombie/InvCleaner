@@ -2,6 +2,7 @@ main: fr.discowzombie.invcleaner.InvCleaner
 name: InvCleaner
 author: DiscowZombie
 version: 1.0
-website: https://twitter.com/McDiscoZombie
+description: Permet de nettoyer l'inventaire de facon avance.
+website: https://github.com/DiscowZombie/InvCleaner
 commands:
     invremove:
