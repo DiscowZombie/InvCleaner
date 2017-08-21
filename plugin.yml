@@ -1,0 +1,7 @@
+main: fr.discowzombie.invcleaner.InvCleaner
+name: InvCleaner
+author: DiscowZombie
+version: 1.0
+website: https://twitter.com/McDiscoZombie
+commands:
+    invremove:
